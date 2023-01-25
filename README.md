@@ -6,7 +6,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishka-Kisten&layout=compact)](https://github.com/Nishka-Kisten/github-readme-stats)
  -->
 <a href="https://github.com/Nishka-Kisten/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nishka-Kistena&theme=midnight-purple&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nishka-Kisten&theme=midnight-purple&show_icons=true" />
 </a>
 <a href="https://github.com/Nishka-Kisten/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishka-Kisten&layout=compact" />
