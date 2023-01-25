@@ -3,7 +3,7 @@
 <!-- [![Nishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishka-Kisten)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Nishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishka-Kistena&theme=midnight-purple&show_icons=true)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishka-Kisten)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishka-Kisten&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishka-Kisten&layout=compact)](https://github.com/Nishka-Kisten/github-readme-stats)
 
 <a href="https://github.com/Nishka-Kisten/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nishka-Kisten&repo=github-readme-stats" />
