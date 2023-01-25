@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nishka-Kisten&theme=midnight-purple&show_icons=true" />
 </a>
 <a href="https://github.com/Nishka-Kisten/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishka-Kisten&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishka-Kisten&layout=compact&theme=midnight-purple" />
 </a>
 
 
