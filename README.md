@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi Im Nishka Kisten👋
 
-<!-- [![Nishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishka-Kisten)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- ![Nishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishka-Kistena&theme=midnight-purple&show_icons=true)(https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishka-Kisten)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishka-Kisten&layout=compact)](https://github.com/Nishka-Kisten/github-readme-stats)
- -->
+
+ 🔭 I’m currently working on Final Projects for my Bootcamp
+- 🌱 I’m currently learning SQL 
+- 📫 How to reach me: https://www.linkedin.com/in/nishka-kisten-a719ab205/
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I love all types of art, especially painting. Reading is an everyday thing for me.
+
 <a href="https://github.com/Nishka-Kisten/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nishka-Kisten&theme=midnight-purple&show_icons=true" />
 </a>
 <a href="https://github.com/Nishka-Kisten/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishka-Kisten&layout=compact&theme=midnight-purple" />
 </a>
+
 
 
 <!--
