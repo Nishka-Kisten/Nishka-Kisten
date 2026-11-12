@@ -3,7 +3,7 @@
 
  🔭 I’m currently working on Final Projects for my Bootcamp
 - 🌱 I’m currently learning SQL 
-- 📫 How to reach me: [https://www.linkedin.com/in/nishka-kisten-a719ab205/](https://www.linkedin.com/in/nishka-kisten-353220381/)
+- 📫 How to reach me: [https://www.linkedin.com/in/nishka-kisten-353220381/](https://www.linkedin.com/in/nishka-kisten-353220381/)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love all types of art, especially painting.
 
